@@ -5,7 +5,7 @@
 	"Send": "",
 	"Yes": "",
 	"No": "",
-	"Accounts": "",
+	"Accounts": "\"",
 	"Timeline": "",
 	"Mentions": "",
 	"Messages": "",
@@ -41,5 +41,9 @@
 	"Special Thanks": "",
 	"Beta Testers": "",
 	"Translators": "",
-	"Multiple Platforms": ""
+	"Multiple Platforms": "",
+	"German": "",
+	"English": "",
+	"Spanish": "",
+	"French": ""
 }
