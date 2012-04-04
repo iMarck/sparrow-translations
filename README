@@ -1,0 +1,15 @@
+To add translations for a new language, follow these steps:
+
+1. Grab the necessary file off of this GitHub repo
+2. Open it in a good plain text editor - I said good, so Notepad on Windows doesn't count ;)
+
+Now for the interesting part...
+
+You'll see a bunch of lines with text in quotes on one side, followed by a colon and empty quotes. Your task is to take the English text on the left side, translate it, and put the translated version on the right side. If you add double quotes you must escape it (instead of putting " you must put \").
+If you're using text accents, you must use a unicode version of this, OR just put a mention on the bug tracker (http://bugtrac.appstuh.com) when you update the bug report on the language you're translating to let me know you left the accents in there and I'll put the unicode version in. For example, an accented o is \u00F3
+
+Now that you've done the translation we want to make sure it's in the correct JSON format. To check, go to http://jsonlint.com and run a test on it.
+
+Note that the strings files are subject to change at any moment - I could alter the wording in the app or add a thousand new phrases - I'll try to let the main collaborator(s) for each language know.
+
+One final note - if you want to become an official collaborator, send me a note with your first contribution. I'll qualify you then.
