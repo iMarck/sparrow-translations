@@ -1,0 +1,22 @@
+{
+	"id": "com.appstuh.sparrow",
+	"version": "0.9.01",
+	"vendor": "appstuh",
+	"type": "web",
+	"main": "../../noWindow.html",
+	"title": "Gorri\u00F3n",
+	"icon": "../../icon.png",
+	"uiRevision": "2",
+	"noWindow": true,
+	"universalSearch": {
+		"action": {
+			"displayName": "Tweet via Gorri\u00F3n",
+			"url": "com.appstuh.sparrow",
+			"launchParam": {
+				"windowType": "newTweet",
+				"tweetText": "#{searchTerms}"
+			}
+		}
+	},
+	"keywords": ["twitter", "tweet", "flapjack", "appstuh", "gorrion", "sparrow"]
+}
