@@ -1,6 +1,6 @@
 {
 	"id": "com.appstuh.sparrow",
-	"version": "0.9.01",
+	"version": "1.0.0",
 	"vendor": "appstuh",
 	"type": "web",
 	"main": "../../noWindow.html",

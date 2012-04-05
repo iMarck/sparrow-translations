@@ -112,5 +112,7 @@
 	"You must enable location services": "",
 	"Failed to get your current location": "",
 	"Couldn't get the Tweetmarker information": "",
-	"Sorry, media uploads are not supported for your device": ""
+	"Sorry, media uploads are not supported for your device": "",
+	"#{user} is following you": "",
+	"#{user} is not following you": ""
 }

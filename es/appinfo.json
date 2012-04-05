@@ -1,16 +1,16 @@
 {
 	"id": "com.appstuh.sparrow",
-	"version": "0.9.01",
+	"version": "1.0.0",
 	"vendor": "appstuh",
 	"type": "web",
 	"main": "../../noWindow.html",
-	"title": "Gorri\u00F3n",
+	"title": "Sparrow",
 	"icon": "../../icon.png",
 	"uiRevision": "2",
 	"noWindow": true,
 	"universalSearch": {
 		"action": {
-			"displayName": "Tweet via Gorri\u00F3n",
+			"displayName": "Tweet via Sparrow",
 			"url": "com.appstuh.sparrow",
 			"launchParam": {
 				"windowType": "newTweet",
