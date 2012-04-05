@@ -112,5 +112,7 @@
 	"Copy to Clipboard": "In Zwischenablage kopieren",
 	"Email": "Email",
 	"Tweet copied to clipboard": "Tweet in Zwischenablage kopiert",
-	"I want to share something with you": "Ich m\u00F6chte etwas mit dir teilen"
+	"I want to share something with you": "Ich m\u00F6chte etwas mit dir teilen",
+	"#{user} is following you": "",
+	"#{user} is not following you": ""
 }
