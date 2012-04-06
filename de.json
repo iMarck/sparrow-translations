@@ -116,5 +116,6 @@
 	"#{user} is following you": "#{user} folgt dir",
 	"new stuff": "",
 	"Pull to Refresh": "",
-	"Release to Refresh": ""
+	"Release to Refresh": "",
+	"Keep Scroll Position on Refresh": ""
 }
