@@ -114,8 +114,8 @@
 	"Tweet copied to clipboard": "Tweet in Zwischenablage kopiert",
 	"I want to share something with you": "Ich m\u00F6chte etwas mit dir teilen",
 	"#{user} is following you": "#{user} folgt dir",
-	"new stuff": "",
-	"Pull to Refresh": "",
-	"Release to Refresh": "",
-	"Keep Scroll Position on Refresh": ""
+	"new stuff": "Neuigkeiten",
+	"Pull to Refresh": "Ziehen um zu aktualisieren",
+	"Release to Refresh": "Loslassen um zu aktualisieren",
+	"Keep Scroll Position on Refresh": "Position beim Aktualisieren beibehalten"
 }
