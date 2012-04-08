@@ -35,7 +35,6 @@
 	"Blocked #{user}": "#{user} est bloqu\u00E9",
 	"Twitter failed to block the user": "Twitter n'a pas r\u00E9ussi \u00E0 bloquer l'utilisateur",
 	"Reported #{user} for spam": "#{user} a \u00E9t\u00E9 signal\u00E9 pour spam",
-	"Twitter failed to acknowlege the spam report": "",
 	"Followed #{user}": "Vous suivez désormais #{user}",
 	"#{user} is private and you don't follow them": "#{user} a un compte privé et vous ne le suivez pas",
 	"Tweet favorited": "Tweet ajouté aux favoris",
@@ -43,7 +42,6 @@
 	"Special Thanks": "Remerciements particuliers",
 	"Beta Testers": "B\u00E9ta-testeurs",
 	"Translators": "Traducteurs",
-	"Multiple Platforms": "",
 	"German": "Allemand",
 	"English": "Anglais",
 	"Spanish": "Espagnol",
@@ -114,5 +112,11 @@
 	"Couldn't get the Tweetmarker information": "Impossible de récupérer vos informations Tweetmarker",
 	"Sorry, media uploads are not supported for your device": "Désolé, votre appareil ne permet pas l'upload de médias",
 	"#{user} is following you": "#{user} vous suit",
-	"#{user} is not following you": "#{user} ne vous suit pas"
+	"#{user} is not following you": "#{user} ne vous suit pas",
+	"Twitter failed to acknowlege the spam report": "",
+	"Multiple Platforms": "",
+	"new stuff": "",
+	"Pull to Refresh": "",
+	"Release to Refresh": "",
+	"Keep Scroll Position on Refresh": ""
 }
