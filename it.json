@@ -115,5 +115,9 @@
 	"Couldn't get the Tweetmarker information": "Non riesco a ricevere le informazioni di Tweetmarker",
 	"Sorry, media uploads are not supported for your device": "Mi spiace, ma il caricamento delle immagini non \u00E8 supportato da questo dispositivo",
 	"#{user} is following you": "#{user} ti segue",
-	"#{user} is not following you": "#{user} non ti segue"
+	"#{user} is not following you": "#{user} non ti segue",
+	"new stuff": "",
+	"Pull to Refresh": "",
+	"Release to Refresh": "",
+	"Keep Scroll Position on Refresh": ""
 }
