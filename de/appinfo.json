@@ -10,7 +10,7 @@
 	"noWindow": true,
 	"universalSearch": {
 		"action": {
-			"displayName": "Tweet Sparrow mit",
+			"displayName": "Tweeten mit Sparrow",
 			"url": "com.appstuh.sparrow",
 			"launchParam": {
 				"windowType": "newTweet",
