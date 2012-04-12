@@ -1,0 +1,22 @@
+{
+	"id": "com.appstuh.sparrow",
+	"version": "1.0.0",
+	"vendor": "appstuh",
+	"type": "web",
+	"main": "../../noWindow.html",
+	"title": "Sparrow",
+	"icon": "../../icon.png",
+	"uiRevision": "2",
+	"noWindow": true,
+	"universalSearch": {
+		"action": {
+			"displayName": "Tweeta da Sparrow",
+			"url": "com.appstuh.sparrow",
+			"launchParam": {
+				"windowType": "newTweet",
+				"tweetText": "#{searchTerms}"
+			}
+		}
+	},
+	"keywords": ["twitter", "tweet", "flapjack", "appstuh", "sparrow"]
+}
