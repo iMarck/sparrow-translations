@@ -63,7 +63,7 @@
 	"Enable Auto-correct (Tweets)": "Abilita auto-correzione dei Tweet",
 	"Enable Auto-correct (DMs)": "Abilita auto-correzione dei Messaggi Diretti",
 	"Refresh Interval": "Aggiornamento automatico",
-	"Use Relative Times": "Usa ora del dispositivo",
+	"Use Relative Times": "Usa l'ora del dispositivo",
 	"Default Account": "Profilo di default",
 	"Font size": "Dimensioni carattere",
 	"Enable Push Notifications": "Abilita le notifiche push",
@@ -119,6 +119,6 @@
 	"new stuff": "Nuovi Tweet",
 	"Pull to Refresh": "Tirare per aggiornare",
 	"Release to Refresh": "Rilascia per aggiornare",
-	"Keep Scroll Position on Refresh": "Mantieni ultima posizione all'avvio di Sparrow",
+	"Keep Scroll Position on Refresh": "Mantieni ultima posizione nella timeline all'avvio di Sparrow",
 	"#{user} never filled out a biography. Shame on them ;)": "#{user} non ha una biografia"
 }
