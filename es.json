@@ -114,5 +114,6 @@
 	"Couldn't get the Tweetmarker information": "",
 	"Sorry, media uploads are not supported for your device": "",
 	"#{user} is following you": "",
-	"#{user} is not following you": ""
+	"#{user} is not following you": "",
+	"#{user} never filled out a biography. Shame on them ;)": ""
 }

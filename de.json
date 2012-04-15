@@ -117,5 +117,7 @@
 	"new stuff": "Neuigkeiten",
 	"Pull to Refresh": "Ziehen um zu aktualisieren",
 	"Release to Refresh": "Loslassen um zu aktualisieren",
-	"Keep Scroll Position on Refresh": "Position beim Aktualisieren beibehalten"
+	"Keep Scroll Position on Refresh": "Position beim Aktualisieren beibehalten",
+	"#{user} is not following you": "",
+	"#{user} never filled out a biography. Shame on them ;)": ""
 }
